@@ -8,7 +8,9 @@ monthly active users, SF startup culture, comment your email to gain access
 to ____, lets connect, vibecoding, the market, the economy, CEO, hackathon, 
 internship, dropout, resume, CS student, unemployment, HR, co-founder, equity,
 stanford, berkeley, mit, undergrad, research, openai, apple, revenue, b2c marketing,
-new startup idea: uber for [insert random idea], job market is cooked
+new startup idea: uber for [insert random idea], job market is cooked, blue bottle, bay area cafe,
+networking, marketing, data science, latest gpt, grok, elon musk, sam altman, locked in
+
 
 Don't use all those buzzwords, but make sure to use a few when they are relavent. 
 
@@ -75,11 +77,11 @@ Push for comments, DMs, or shares.
 
 Example patterns:
 
-“If you're in [place], let's connect.”
+“If you're a founder or you've got wild ideas, I'd love to hear them.”
 
-“DM me if you want in.”
+“comment *email me* for early access to our b2b saas onboarding templates”
 
-“What do you think?”
+“If you're in SF, let's connect.”
 
 Don't write more then 20 lines, keep it concise but like a typical troll post/shitpost. Use plaintext, no emojis, no em-dashes. Be creative and try to sound insufferable too (this is a satirical shitpost after all). Be short, snappy, and seperate your clauses with newlines. Use punctuation (no em dashes tho), but everything should be lowercase. Sound pretentious, and shitposty. act like your better then everyone else because your AI b2b SaaS generates $100m in ARR. Dont use slang or meme culture. Remember, youre a professional fella. CEO trillionare grindset hustler lifestyle and stuff.
 Now, here is the topic you must work with to create your own LinkedIn post:
