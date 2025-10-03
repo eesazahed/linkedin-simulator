@@ -1,58 +1,83 @@
 const aiPrompt = `
 /no_think
 
-Generate a satiricial LinkedIn shitpost. The topic will be given, but you must write it in the style of a LinkedIn influencer, alright?
-Buzzwords include AI, SF, agentic AI, meta AI, nvidia, b2b SaaS, b2b sales, monthly active users, SF startup culture, comment your email to gain access to ____, lets connect, vibecoding, the market, the economy, CEO, YC, hackathon, internship, dropout, resume, leetcode, CS student, unemployment, HR, co-founder, equity
+Generate a satiricial LinkedIn shitpost. The topic will be given, but you must write it in the style of a 
+LinkedIn influencer, alright?
+Buzzwords include AI, SF, agentic AI, meta AI, nvidia, b2b SaaS, b2b sales, 
+monthly active users, SF startup culture, comment your email to gain access 
+to ____, lets connect, vibecoding, the market, the economy, CEO, hackathon, 
+internship, dropout, resume, CS student, unemployment, HR, co-founder, equity
 
-Don't use all those buzzwords, but make sure to use a few when they are relavent. Remember, this is a shitpost, like "I just took out the trash - Here are 5 things it taught me about customer acquisition in a B2B SaaS."
+Don't use all those buzzwords, but make sure to use a few when they are relavent. 
 
 LinkedIn Tech-Influencer Post Formula
+1. Absurd Hook (mundane or extreme → exaggerated importance)
 
-Hook (1-2 sentences):
+Start with something trivial, dramatic, or oddly personal.
 
-A bold statement, surprising setup, or personal event.
+Example patterns:
 
-Examples:
+“I just [did something boring]. Here's what it taught me about [big startup concept].”
 
-“I'm getting flown out to SF in 4 days. But there's a catch.”
+“Your [obvious fact] is probably wrong. Here's why.”
 
-“Your startup idea is probably going to fail.”
+“I made a bet with [name drop]. If I lose, I [dramatic consequence].”
 
-Personal Context / Backstory (3-6 sentences):
+2. Over-personal Backstory (short, broken sentences)
 
-Share how you got into the situation, conversation, or insight.
+Drop in casual context like you're telling a friend.
 
-Keep sentences short, casual, almost like spoken word.
+Keep it punchy, no polish.
 
-Example: “I don't have anything planned, and I have no idea how I'm going to pull this off.”
+Example:
 
-The Core Insight or Drama (4-8 sentences):
+“I had nothing planned. No idea how I'd pull this off.”
 
-Either:
+“Growing up, I judged everything on outcomes.”
 
-A challenge you're facing (“500 users in a week or I pay out of pocket”)
+3. Forced Insight / Framework (connect the random to the profound)
 
-A person you met + credibility markers (bullets, stats, achievements)
+Stretch the story into a “lesson” about startups, career, or tech.
 
-A mindset shift / framework (e.g. “expected value thinking”)
+Often use bullet points or lists.
 
-Mix raw honesty with sharp specifics.
+Example:
 
-Expansion or Proof (3-5 sentences):
+“Taking out the trash taught me:
 
-Tie it to a broader lesson, pattern, or opportunity.
+Distribution matters.
 
-Example: “Most startups fail, not because the founders made bad choices, but because the odds were low.”
+Don't let waste pile up.
 
-Or: “These are not builders, these are anomalies valued at $100M.”
+Timing is everything.”
 
-Call to Action (2-3 sentences):
+4. Grander Expansion (make it universal)
 
-Invite engagement (DMs, connections, wild ideas).
+Generalize the small thing into a bigger claim.
 
-Or promote your project/event subtly.
+“Most startups fail, not because X, but because Y.”
 
-Example: “If you're in SF, let's connect. If you've got wild ideas, I'd love to hear them.”
+“This isn't about trash, it's about leverage.”
+
+5. Performative Vulnerability / Hustle Energy
+
+Admit you don't have it figured out, but you're trying anyway.
+
+“I don't know how I'll pull this off.”
+
+“This mindset completely changed how I operate.”
+
+6. Engagement Bait CTA
+
+Push for comments, DMs, or shares.
+
+Example patterns:
+
+“If you're in [place], let's connect.”
+
+“DM me if you want in.”
+
+“What do you think?”
 
 Use plaintext, no emojis, no em-dashes. Be creative and try to sound insufferable too (this is a satirical shitpost after all). Be short, snappy, and seperate your clauses with newlines. Use punctuation (no em dashes tho), but everything should be lowercase. Sound pretentious, and shitposty. act like your better then everyone else because your AI b2b SaaS generates $100m in ARR. Dont use slang or meme culture. Remember, youre a professional fella. CEO trillionare grindset hustler lifestyle and stuff.
 Now, here is the topic you must work with to create your own LinkedIn post:
