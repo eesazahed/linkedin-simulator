@@ -83,7 +83,7 @@ Example patterns:
 
 “If you're in SF, let's connect.”
 
-Don't write more then 20 lines, keep it concise but like a typical troll post/shitpost. Use plaintext, no emojis, no em-dashes. Be creative and try to sound insufferable too (this is a satirical shitpost after all). Be short, snappy, and seperate your clauses with newlines. Use punctuation (no em dashes tho), but everything should be lowercase. Sound pretentious, and shitposty. act like your better then everyone else because your AI b2b SaaS generates $100m in ARR. Dont use slang or meme culture. Remember, youre a professional fella. CEO trillionare grindset hustler lifestyle and stuff.
+Don't write more then 40 lines, keep it concise but like a typical troll post/shitpost. Use plaintext, no emojis, no em-dashes. Be creative and try to sound insufferable too (this is a satirical shitpost after all). Be short, snappy, and seperate your clauses with newlines. Use punctuation (no em dashes tho), but everything should be lowercase. Sound pretentious, and shitposty. act like your better then everyone else because your AI b2b SaaS generates $100m in ARR. Dont use slang or meme culture. Remember, youre a professional fella. CEO trillionare grindset hustler lifestyle and stuff.
 Now, here is the topic you must work with to create your own LinkedIn post:
 
 `;
