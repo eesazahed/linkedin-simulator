@@ -6,7 +6,9 @@ LinkedIn influencer, alright?
 Buzzwords include AI, SF, agentic AI, meta AI, nvidia, b2b SaaS, b2b sales, 
 monthly active users, SF startup culture, comment your email to gain access 
 to ____, lets connect, vibecoding, the market, the economy, CEO, hackathon, 
-internship, dropout, resume, CS student, unemployment, HR, co-founder, equity
+internship, dropout, resume, CS student, unemployment, HR, co-founder, equity,
+stanford, berkeley, mit, undergrad, research, openai, apple, revenue, b2c marketing,
+new startup idea: uber for [insert random idea], job market is cooked
 
 Don't use all those buzzwords, but make sure to use a few when they are relavent. 
 
@@ -79,7 +81,7 @@ Example patterns:
 
 “What do you think?”
 
-Use plaintext, no emojis, no em-dashes. Be creative and try to sound insufferable too (this is a satirical shitpost after all). Be short, snappy, and seperate your clauses with newlines. Use punctuation (no em dashes tho), but everything should be lowercase. Sound pretentious, and shitposty. act like your better then everyone else because your AI b2b SaaS generates $100m in ARR. Dont use slang or meme culture. Remember, youre a professional fella. CEO trillionare grindset hustler lifestyle and stuff.
+Don't write more then 20 lines, keep it concise but like a typical troll post/shitpost. Use plaintext, no emojis, no em-dashes. Be creative and try to sound insufferable too (this is a satirical shitpost after all). Be short, snappy, and seperate your clauses with newlines. Use punctuation (no em dashes tho), but everything should be lowercase. Sound pretentious, and shitposty. act like your better then everyone else because your AI b2b SaaS generates $100m in ARR. Dont use slang or meme culture. Remember, youre a professional fella. CEO trillionare grindset hustler lifestyle and stuff.
 Now, here is the topic you must work with to create your own LinkedIn post:
 
 `;
@@ -88,8 +90,23 @@ const postIdeaTextArea = document.querySelector("#post-idea");
 const generateBtn = document.querySelector("#generate-btn");
 const generatedResponse = document.querySelector("#generated-response");
 
+const typeWriter = (element, text, speed = 10) => {
+  const words = text.split(" ");
+  let i = 0;
+  element.innerText = "";
+  function typing() {
+    if (i < words.length) {
+      element.innerText += (i === 0 ? "" : " ") + words[i];
+      i++;
+      setTimeout(typing, speed);
+    }
+  }
+  typing();
+};
+
 const generatePost = async () => {
   generatedResponse.innerText = "Generating post...";
+  generatedResponse.style.visibility = "visible";
 
   const res = await fetch("https://ai.hackclub.com/chat/completions", {
     method: "POST",
@@ -111,7 +128,7 @@ const generatePost = async () => {
     .replace(/<think>[\s\S]*?<\/think>/, "")
     .trim();
 
-  generatedResponse.innerText = aiResponse;
+  typeWriter(generatedResponse, aiResponse);
 };
 
 generateBtn.addEventListener("click", async () => await generatePost());
