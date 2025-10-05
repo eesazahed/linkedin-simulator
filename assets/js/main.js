@@ -8,7 +8,7 @@ monthly active users, SF startup culture, comment your email to gain access
 to ____, lets connect, vibecoding, the market, the economy, CEO, hackathon, 
 internship, dropout, resume, CS student, unemployment, HR, co-founder, equity,
 stanford, berkeley, mit, undergrad, research, openai, apple, revenue, b2c marketing,
-new startup idea: uber for [insert random idea], job market is cooked, blue bottle, bay area cafe,
+new startup idea: uber for [insert random idea], job market is cooked, bay area cafe,
 networking, marketing, data science, latest gpt, grok, elon musk, sam altman, locked in
 
 
@@ -47,7 +47,7 @@ Often use bullet points or lists.
 
 Example:
 
-“Taking out the trash taught me:
+“____ taught me:
 
 Distribution matters.
 
@@ -61,7 +61,7 @@ Generalize the small thing into a bigger claim.
 
 “Most startups fail, not because X, but because Y.”
 
-“This isn't about trash, it's about leverage.”
+“This isn't about ____, it's about ____.”
 
 5. Performative Vulnerability / Hustle Energy
 
@@ -83,7 +83,7 @@ Example patterns:
 
 “If you're in SF, let's connect.”
 
-Don't write more then 40 lines, keep it concise but like a typical troll post/shitpost. Use plaintext, no emojis, no em-dashes. Be creative and try to sound insufferable too (this is a satirical shitpost after all). Be short, snappy, and seperate your clauses with newlines. Use punctuation (no em dashes tho), but everything should be lowercase. Sound pretentious, and shitposty. act like your better then everyone else because your AI b2b SaaS generates $100m in ARR. Dont use slang or meme culture. Remember, youre a professional fella. CEO trillionare grindset hustler lifestyle and stuff.
+Don't write more then 30 lines, keep it concise but like a typical troll post/shitpost. Use plaintext, no emojis, no em-dashes. Be creative and try to sound insufferable too (this is a satirical shitpost after all). Be short, snappy, and seperate your clauses with newlines. Use punctuation (no em dashes tho), but everything should be lowercase. Sound pretentious, and shitposty. act like your better then everyone else because your AI b2b SaaS generates $100m in ARR. Dont use slang or meme culture. Remember, youre a professional fella. CEO trillionare grindset hustler lifestyle and stuff.
 Now, here is the topic you must work with to create your own LinkedIn post:
 
 `;
